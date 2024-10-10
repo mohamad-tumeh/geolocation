@@ -40,7 +40,3 @@ npm run start
 
 npm run deploy
 
-
-- Access the deployed app at:
-
-- https://mohamad-tumeh.github.io/geolocation
