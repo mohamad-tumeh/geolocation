@@ -1,0 +1,16 @@
+.app-container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.form-container {
+  margin: 20px 0;
+}
+
+.error-message {
+  color: red;
+}
+
+.result-display {
+  margin-top: 20px;
+}
